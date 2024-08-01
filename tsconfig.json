@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
     "outDir": "./dist",
-    "module": "ES2020",
+    "module": "commonjs",
     "target": "es6",
     "declaration": true,
     "strict": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "moduleResolution": "node"
   },
-  "include": ["src/**/*.ts", "index.spec.ts"]
+  "include": ["src/**/*.ts"]
 }

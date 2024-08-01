@@ -4,6 +4,7 @@
   "description": "A string hashing utility based on Daniel J. Bernstein's popular 'times 33' hash algorithm.",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "jest"
   },
   "keywords": [
