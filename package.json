@@ -1,12 +1,16 @@
 {
   "name": "shorthashd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A string hashing utility based on Daniel J. Bernstein's popular 'times 33' hash algorithm.",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest"
   },
+  "files": [
+    "dist/**/*"
+  ],
   "keywords": [
     "shorthash",
     "hash",
