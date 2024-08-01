@@ -1,6 +1,6 @@
 {
   "name": "shorthashd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A string hashing utility based on Daniel J. Bernstein's popular 'times 33' hash algorithm.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,8 +22,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/404answernotfound/shorthashd.git",
-    "author": "404answernotfound"
+    "url": "https://github.com/404answernotfound/shorthashd.git"
+  },
+  "homepage": "https://github.com/404answernotfound/shorthashd#readme",
+  "bugs": {
+    "url": "https://github.com/404answernotfound/shorthashd/issues"
   },
   "license": "MIT",
   "packageManager": "pnpm@9.6.0+sha512.38dc6fba8dba35b39340b9700112c2fe1e12f10b17134715a4aa98ccf7bb035e76fd981cf0bb384dfa98f8d6af5481c2bef2f4266a24bfa20c34eb7147ce0b5e",
