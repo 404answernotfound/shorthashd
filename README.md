@@ -1,7 +1,3 @@
-Certainly! Here's a detailed and informative README file for your project:
-
----
-
 # Shorthashd
 
 [![npm version](https://badge.fury.io/js/shorthashd.svg)](https://badge.fury.io/js/shorthashd)
