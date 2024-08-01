@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/shorthashd.svg)](https://badge.fury.io/js/shorthashd)
 
-Shorthashd is a mini library for generating short hashes from strings. It is based on Daniel J. Bernstein's popular 'times 33' hash algorithm. A fork of [this shortHash function](https://github.com/joakimbeng/short-hash) with the possibility to [add base](https://github.com/joakimbeng/short-hash/pull/4/files), born out of the necessity to update and make this utility zero dependency.
+`shorthashd` is a mini library for generating short hashes from strings. It is based on Daniel J. Bernstein's popular 'times 33' hash algorithm. A fork of [this shortHash function](https://github.com/joakimbeng/short-hash) with the possibility to [add base](https://github.com/joakimbeng/short-hash/pull/4/files), born out of the necessity to update and make this utility zero dependency.
 
 Thanks to @KonkenBonken and @joakimbeng
 
